@@ -17,6 +17,10 @@ __Face Detection on Custom Dataset with Detectron2 and PyTorch__
 
 * Models can be exported to torchscript format or caffe2 format for deployment.
 
+### Installation
+
+See [INSTALL.md](INSTALL.md)
+
 
 
 
