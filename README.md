@@ -44,6 +44,13 @@ That's the power of large pre-trained models.
 
 ![img_011](img_011.png)
 
+![img_012](img_012.png)
+
+I learned how to:
+* Prepare a custom dataset for face detection with Detectron2
+* This can extend this work for face recognition
+
+
 
 
 
