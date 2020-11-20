@@ -50,6 +50,9 @@ I learned how to:
 * Prepare a custom dataset for face detection with Detectron2
 * This can extend this work for face recognition
 
+### Link colab for result: 
+https://colab.research.google.com/drive/1utFP3oVK3fFF3i9PbJIKyKQhHnSQJx0z#scrollTo=gCFP0LJ6lCOA
+
 
 
 
