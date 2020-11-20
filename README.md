@@ -42,6 +42,8 @@ After that, we'll read json file as here:
 ### Conclusion
 That's the power of large pre-trained models.
 
+![img_011](img_011.png)
+
 
 
 
