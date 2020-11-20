@@ -1,2 +1,1 @@
-
- <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
+__Detectron 2 to detect objective__
